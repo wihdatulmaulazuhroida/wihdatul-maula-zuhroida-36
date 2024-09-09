@@ -1,0 +1,7 @@
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\Wihdatul Maula Z\Wihdatul Maula Z\obj\Debug\Wihdatul Maula Z.csproj.AssemblyReference.cache
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\Wihdatul Maula Z\Wihdatul Maula Z\obj\Debug\Wihdatul Maula Z.csproj.CoreCompileInputs.cache
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\Wihdatul Maula Z\Wihdatul Maula Z\bin\Debug\Wihdatul Maula Z.exe.config
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\Wihdatul Maula Z\Wihdatul Maula Z\bin\Debug\Wihdatul Maula Z.exe
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\Wihdatul Maula Z\Wihdatul Maula Z\bin\Debug\Wihdatul Maula Z.pdb
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\Wihdatul Maula Z\Wihdatul Maula Z\obj\Debug\Wihdatul Maula Z.exe
+C:\Users\USER\36. Wihdatul Maula  Zuhroida\36. Wihdatul Maula Zuhroida (1)\Wihdatul Maula Z\Wihdatul Maula Z\obj\Debug\Wihdatul Maula Z.pdb
